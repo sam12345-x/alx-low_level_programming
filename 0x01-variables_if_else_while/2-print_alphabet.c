@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(void)
 {
-    char ch = '1';
-    for (ch = '1'; ch <= 'z'; ch++)
+    char ch = '_';
+    for (ch = '_'; ch <= 'z'; ch++)
         putchar(ch);
     return (0);
 }
