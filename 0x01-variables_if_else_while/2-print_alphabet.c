@@ -2,7 +2,7 @@
   
 int main()
 {
-    char ch = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    char ch = 'abcdefghijklmnopqrstuvwxyz';
   
     
     putchar(ch);
