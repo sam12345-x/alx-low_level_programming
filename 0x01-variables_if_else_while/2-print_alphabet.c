@@ -2,10 +2,13 @@
   
 int main()
 {
-    char ch = 'abcdefghijklmnopqrstuvwxyz';
+  
+    // Get the character to be written
+    char ch = 'a';
   
     
-    putchar(ch);
+    for (ch = 'a'; ch <= 'z'; ch++)
+        putchar(ch);
   
     return (0);
 }
