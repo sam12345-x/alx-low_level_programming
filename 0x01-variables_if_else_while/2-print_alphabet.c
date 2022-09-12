@@ -3,7 +3,7 @@
 int main()
 {
   
-    // Get the character to be written
+    
     char ch = 'a';
   
     
