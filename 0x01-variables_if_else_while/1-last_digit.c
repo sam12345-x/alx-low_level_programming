@@ -2,7 +2,8 @@
 
 int main()
 {
-  printf("the last digit of  ");
+  printf("the last digit of  ");   
+  	
   int n;
   cin>n;
   printf("is  ");
@@ -12,7 +13,7 @@ int main()
     else if (n=0){
       printf("and is zero");
     }
-  else if (n<6=!0){
+  else if ("the last digit of "n<6=!0){
       printf("and is less than 6 and not 0");
   }
 	return (0);
