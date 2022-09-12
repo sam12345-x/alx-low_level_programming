@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main(void)
 {
-    int ch;
-    for (ch = 'a'; ch <= 'z'; ch++)
-        putchar(ch);<br>
-    return (0);
-}
+  char ch;
+    for (ch = 'A'; ch <= 'Z'; ch++)
+    {printf("%c  ",ch)
+     }
+       
+
