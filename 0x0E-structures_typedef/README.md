@@ -1,0 +1,1 @@
+This is alx 0x0E-structures_typedef project
